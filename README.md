@@ -1,7 +1,5 @@
 # Zoo Project
 
----
-
 _Note: Worked independently so instead of doing pull requests, I simply pushed to origin/main_
 
 Group Member Names: David Neuman
